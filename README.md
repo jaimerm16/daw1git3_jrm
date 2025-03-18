@@ -2,7 +2,7 @@
 
 ## Creación de fichero README con la sistaxis de markdown
 
-En el fichero *REDAME* vamos a añadir todos los pasos realizados en la sesión
+En el fichero *README* vamos a añadir todos los pasos realizados en la sesión
 de trabajo con **Git** y **GitHub**.
 
 A continuación se resumen los pasos a realizar, que serán documentados en las
